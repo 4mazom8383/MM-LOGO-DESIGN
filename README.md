@@ -1,5 +1,4 @@
 <div align="center">
 
-MM
-Logo design documentation
+## MM Logo design documentation
 </div>
