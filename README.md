@@ -18,6 +18,7 @@
 
 ![Logo inspiration](/imgs/section4_2.jpg)
 
+
 <div align="center">
   <img width="842" height="842" src="imgs/section4_3.jpg">
 </div>
