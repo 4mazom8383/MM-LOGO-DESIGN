@@ -1,4 +1,5 @@
 <div align="center">
 
-# This is gonna be centered!
+MM
+Logo design documentation
 </div>
