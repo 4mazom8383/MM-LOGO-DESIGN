@@ -1,2 +1,4 @@
-# LogoDesign-MM
-Logo Design documentation
+<div align="center">
+
+# This is gonna be centered!
+</div>
