@@ -31,5 +31,6 @@
 ![Logo mockup](/imgs/mockup2.jpg)
 
 ![Logo mockup](/imgs/mockup3.jpg)
+![Logo mockup](/imgs/wall.jpg)
 
 ![Style guide](/imgs/section5.jpg)
