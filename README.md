@@ -46,7 +46,7 @@ When it comes to the chosen font typography, the full name has been included at 
 The first name is in bold font style, whereas the surname in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them visually integral components.
 
 
-Font typography : https://www.dafont.com/mayeka.font
+
 
 ![Logo inspiration](/imgs/section4_1.jpg)
 
@@ -93,3 +93,8 @@ In this way, the logo format can be maintained and there won’t be any sort of 
 
 The style guide can only change by the original designer or in case there is a major update to the logo with new style and look.
 
+
+
+
+
+Font typography : https://www.dafont.com/mayeka.font
