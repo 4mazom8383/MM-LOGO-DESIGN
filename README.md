@@ -1,5 +1,5 @@
 
-<div align="center"><img width="842" height="595" src="imgs/header.svg"></div>
+<div align="center"><img width="1042" height="795" src="imgs/header.svg"></div>
 
 <h1 align="center">Logo Design</h1>
 
