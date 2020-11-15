@@ -1,7 +1,7 @@
 
 <div align="center"><img width="842" height="595" src="imgs/header.svg"></div>
 
-<h1 align="center"><b>Main LOGO</b></h1>
+<h1 align="center">Logo Design</h1>
 
 
 <div align="center"><img width="840" height="1600" src="imgs/section1.jpg"></div>
