@@ -2,6 +2,13 @@
   <img width="842" height="595" src="imgs/header.svg">
 </div>
 
+<h2 align="center">
+    
+    Main LOGO
+
+</h2>
+
+
 A personal logo for a designer is quite important as it presents the designer's style, choices, and what he is capable of, and most importantly it helps to build an early perspective by a potential client.
 
 I always wanted the logo idea to be based on a concept that could be developed from scratch. However, as I delved into the design, I wanted it to be grounded in a conceptual idea that could be developed from scratch. Ultimately, to be able to make a final version that I can be proud of.
@@ -23,6 +30,7 @@ The idea is to create a chromatic balance between the two colors categories and 
   <img width="840" height="1200" src="imgs/section2.jpg">
 </div>
 
+# Logo Sketches
 As I mentioned before, I always wanted the logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
 As shown is the presented sketches, the logo symbol has three components; each one of them contains two layouts. 
 
