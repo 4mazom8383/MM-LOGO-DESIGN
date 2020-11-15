@@ -41,6 +41,13 @@ This is supported with three main colors in order to make the merge smooth and c
 <div align="center"><img width="842" height="842" src="imgs/section3.jpg"></div>
 <h1 align="center">Logo font typography style</h1>
 
+When it comes to the chosen font typography, the full name has been included at the bottom of the logo in order to identify the meaning behind the two letters M M using a basic and simple font typography with a view to maintain the logo viewers attention and focus on the main logo symbol.
+
+The first name is in bold font style, whereas the surname in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them visually integral components.
+
+
+Font typography : https://www.dafont.com/mayeka.font
+
 ![Logo inspiration](/imgs/section4_1.jpg)
 
 <div align="center"><img width="842" height="844" src="imgs/section4_2.jpg"></div>
