@@ -28,7 +28,7 @@ As shown is the presented sketches, the logo symbol has three components; each o
 
 Starting from the right side: 
 * The first two components refer to the M letter from the first name.
-* Whereas, the third one refers to the the M letter from the surname, but hidden in back 
+* Whereas, the third one refers to the the M letter from the surname, but hidden in back.
 This is supported with three main colors in order to make the merge smooth and clear to the viewers.
 
 
