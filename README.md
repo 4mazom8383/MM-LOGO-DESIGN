@@ -28,9 +28,7 @@
 
 ![Logo mockup](/imgs/mockup3.jpg)
 ![Logo mockup](/imgs/wall.jpg)
-
 <h1 align="center">Logo on mockup</h1>
 
 ![Style guide](/imgs/section5.jpg)
-
 <h1 align="center">Style guide</h1>
