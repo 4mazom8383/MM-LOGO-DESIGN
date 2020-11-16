@@ -30,7 +30,7 @@ The following list contain:
 <h1 align="center">Logo Sketches</h1>
 
 I always wanted the logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
-As shown in the presented sketches, the logo symbol has three components; each one of them contains two layouts. 
+As shown in the presented sketches, the logo symbol has three components; each one of them contains two shapes. 
 
 Starting from the right side: 
 * The first two components refer to the M letter from the first name.
