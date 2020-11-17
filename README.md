@@ -112,9 +112,20 @@ In this way, the logo format can be maintained and there won’t be any sort of 
 The style guide can only be edited or changed by the original designer or in case there is a major update to the logo with a new style and look.
 
 
-.
-.
 
+
+
+.
+* For better view to the logo, here's a link that the showcases the logo in various formats: 
+
+
+
+
+
+
+
+
+.
 # Used links / Referances
 
 * Font typography: https://www.dafont.com/mayeka.font
