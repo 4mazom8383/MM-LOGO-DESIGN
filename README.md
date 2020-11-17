@@ -63,7 +63,7 @@ The balance between the cold and warm colors is also there and supported by smal
 
 Also, I'm a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use it as reference and a personal style in my future designs.
 
-Beside Material design I also looked at Neumorphic Design style which appears to be closer to the 3D design. According to () it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
+> Beside Material design I also looked at Neumorphic Design style which appears to be closer to the 3D design. According to () it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
 
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
 
