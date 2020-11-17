@@ -76,7 +76,9 @@ The idea behind this is to create a chromatic balance between the two colors cat
 
 
 ![Logo mockup](/imgs/mockup1.jpg)
+
 ![Logo mockup](/imgs/mockup2.jpg)
+
 ![Logo mockup](/imgs/mockup3.jpg)
 
 
