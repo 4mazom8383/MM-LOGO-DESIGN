@@ -46,6 +46,8 @@ The first name is in bold font style, whereas the surname in a regular style. Th
 
 
 
+.
+.
 
 ![Logo inspiration](/imgs/section4_1.jpg)
 
