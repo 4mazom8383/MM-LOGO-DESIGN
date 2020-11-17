@@ -3,7 +3,7 @@
 
 A personal logo for a designer is quite important as it presents the designer's style, choices, and what he is capable of, and most importantly it helps to build an early perspective by a potential client.
 
-I always wanted the logo idea to be based on a concept that could be developed from scratch. However, as I delved into the design, I wanted it to be grounded in a conceptual idea that could be developed from scratch. Ultimately, to be able to make a final version that I can be proud of.
+I've always wanted my logo to have a signature design similar to the senior designers and painters. However, as I delved into the design, I wanted it to be grounded in a conceptual idea that could be developed from scratch. Ultimately, to be able to make a final version that I can be proud of.
 
 The logo idea is based on a combination between the first two letters from the name "Mohamed MAZOUZ" “M M” in the form of a simple and remarkable symbol based on a minimal style. And supported by a collection of colors that will demonstrate clearly the combination between the two letters M M
 
@@ -14,13 +14,12 @@ The logo idea is based on a combination between the first two letters from the n
 The idea is to create a chromatic balance between the two colors categories and most importantly to make the letters combination clear and significant to the viewer.
 
 
-
 <div align="center"><img width="840" height="1600" src="imgs/section1.jpg"></div>
 <h1 align="center"> Main LOGO</h1>
 
-Big emphasis has been placed on the logo icon in order to come up with a well-balanced and adjusted logo. And most importantly, to be able to present this particular logo in various scenarios.
+A big emphasis has been placed on the logo icon in order to come up with a well-balanced and adjusted logo. And most importantly, to be able to present this particular logo in various scenarios.
 
-The following list contain: 
+The following list contains: 
 * Logo symbol
 * The logo symbol with all the grid adjustments 
 * The final sketching draft of the logo symbol 
@@ -29,8 +28,8 @@ The following list contain:
 <div align="center"><img width="840" height="1200" src="imgs/section2.jpg"></div>
 <h1 align="center">Logo Sketches</h1>
 
-I always wanted the logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
-As shown in the presented sketches, the logo symbol has three components; each one of them contains two shapes. 
+I’ve always wanted the logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
+As shown in the presented sketches, the logo icon has three components; each one of them contains two layouts. 
 
 Starting from the right side: 
 * The first two components refer to the M letter from the first name.
@@ -52,9 +51,23 @@ The first name is in bold font style, whereas the surname in a regular style. Th
 
 <div align="center"><img width="842" height="844" src="imgs/section4_2.jpg"></div>
 
+<h1 align="center">Logo inspiration</h1>
+During the process of designing this particular logo, I had the chance to diversify my inspiration area not only to determine the logo style, but also to be able design this as I imagined it.
+
+Being a junior designer, I was always interested in designs that were inspired whether from nature or human action or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. I like the fact that material design focuses on small details when it comes to shaps, shadows, bold flat colors, and most importantly the realistic appearances that provide visual cues that are inspired from reality.
+
+I like the shadow presences in Material design logos especially on Gmail, Drive, and Calendar logos. This gives a sense of reality and adaptation in the real world.
+The balance between the cold and warm colors is also there and supported by small shapes of dark colors from the same colors palette; which provides a sense of comfort to the viewers.
+
+Also, I'm a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use it as reference and a personal style in my future designs.
+
+Beside Material design I also looked at Neumorphic Design style which appears to be closer to the 3D design. According to () it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
+
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
 
-<h1 align="center">Logo inspiration</h1>
+When it comes to the used colors, I wanted to use multiple colors in order to demonstrate the merge among the logo elements. That was inspired from the bold colors especially flat color and Material color palette.
+
+The idea behind this is to create a chromatic balance between the two colors categories and most importantly to make the letters combination clear and significant to the viewer.
 
 
 ![Logo mockup](/imgs/mockup1.jpg)
@@ -67,10 +80,10 @@ The first name is in bold font style, whereas the surname in a regular style. Th
 
 In order to give and present a realistic view of the future usage to this particular logo, we have used a number of mockups to show potential usage in different perspectives.
 
-Business card mockup: This shows the logo in a vertical card using the horizontal logo to fit the card layout including the personal links on Behance and Dribbble for business inquiries. Whereas at the back, the logo symbol has been centralized to fit the back of the card.
-White paper mockup: In this mockup, the logo is presented in white background paper in which the logo is expected to be printed repeatedly similar to this format.
-Computer mockup: this shows the expected format of the logo on the computer browser.
-Wallpaper mockup: this one is similar to the white paper mockup, but with a 3D view.
+* Business card mockup: This shows the logo in a vertical card using the horizontal logo to fit the card layout including the personal links on Behance and Dribbble for business inquiries. Whereas at the back, the logo symbol has been centralized to fit the back of the card.
+* White paper mockup: In this mockup, the logo is presented in white background paper in which the logo is expected to be printed repeatedly similar to this format.
+* Computer mockup: this shows the expected format of the logo on the computer browser.
+* Wallpaper mockup: this one is similar to the white paper mockup, but with a 3D view.
 
 It is expected that this logo is going to be used mostly on digital devices. However, all the criteria for printing usage are already presented in the style guide sheet.
 
@@ -91,7 +104,7 @@ The style guide demonstrates the following criteria:
 
 In this way, the logo format can be maintained and there won’t be any sort of confusion in the future usage. Since the logo is going to be used mostly on digital devices, we didn't want to go deeper in the style guide and provide so many criteria and probabilities of use.
 
-The style guide can only change by the original designer or in case there is a major update to the logo with new style and look.
+The style guide can only be edited or changed by the original designer or in case there is a major update to the logo with a new style and look.
 
 
 
