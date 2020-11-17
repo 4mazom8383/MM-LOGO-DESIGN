@@ -36,7 +36,9 @@ Starting from the right side:
 * Whereas, the third one refers to the the M letter from the surname, but hidden in back 
 This is supported with three main colors in order to make the merge smooth and clear to the viewers.
 
+.
 
+.
 <div align="center"><img width="842" height="842" src="imgs/section3.jpg"></div>
 <h1 align="center">Logo font typography style</h1>
 
@@ -47,6 +49,7 @@ The first name is in bold font style, whereas the surname in a regular style. Th
 
 
 .
+
 .
 
 ![Logo inspiration](/imgs/section4_1.jpg)
