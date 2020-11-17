@@ -1,9 +1,9 @@
 <div align="center"><img width="1042" height="795" src="imgs/header.svg"></div>
 <h1 align="center">Logo Design</h1>
 
-A personal logo for a designer is quite important as it presents the designer's style, choices, and what he is capable of, and most importantly it helps to build an early perspective by a potential client.
+A personal logo for a designer is really important as it presents the designer's style, choices, and what he is capable of. And most importantly, it helps to build an early perspective by a potential client.
 
-I've always wanted my logo to have a signature design similar to the senior designers and painters. However, as I delved into the design, I wanted it to be grounded in a conceptual idea that could be developed from scratch. Ultimately, to be able to make a final version that I can be proud of.
+I've always wanted my logo to have a signature design similar to the senior designers and painters. However, as I delved into the design, I wanted it to be grounded in a conceptual idea that could be developed from scratch. Ultimately, I will be ale to present a final version that I can be proud of.
 
 The logo idea is based on a combination between the first two letters from the name "Mohamed MAZOUZ" “M M” in the form of a simple and remarkable symbol based on a minimal style. And supported by a collection of colors that will demonstrate clearly the combination between the two letters M M
 
@@ -17,7 +17,7 @@ The idea is to create a chromatic balance between the two colors categories and 
 <div align="center"><img width="840" height="1600" src="imgs/section1.jpg"></div>
 <h1 align="center"> Main LOGO</h1>
 
-A big emphasis has been placed on the logo icon in order to come up with a well-balanced and adjusted logo. And most importantly, to be able to present this particular logo in various scenarios.
+A big emphasis has been placed on the logo icon in order to come up with well-balanced and adjusted logo. And mabove all, I'll be able to present this particular logo in various scenarios.
 
 The following list contains: 
 * Logo symbol
@@ -28,13 +28,13 @@ The following list contains:
 <div align="center"><img width="840" height="1200" src="imgs/section2.jpg"></div>
 <h1 align="center">Logo Sketches</h1>
 
-I’ve always wanted the logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
-As shown in the presented sketches, the logo icon has three components; each one of them contains two layouts. 
+As a junior designer, I wanted my logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
+As shown in the presented sketches, the logo icon has three components; each one of them contains two shapes. 
 
 Starting from the right side: 
 * The first two components refer to the M letter from the first name.
 * Whereas, the third one refers to the the M letter from the surname, but hidden in back 
-This is supported with three main colors in order to make the merge smooth and clear to the viewers.
+This is supported with three main colors in order to make the merge smooth, clear ,and understandable to the viewers.
 
 .
 
@@ -42,10 +42,9 @@ This is supported with three main colors in order to make the merge smooth and c
 <div align="center"><img width="842" height="842" src="imgs/section3.jpg"></div>
 <h1 align="center">Logo font typography style</h1>
 
-When it comes to the chosen font typography, the full name has been included at the bottom of the logo in order to identify the meaning behind the two letters M M using a basic and simple font typography with a view to maintain the logo viewers attention and focus on the main logo symbol.
+When it comes to the chosen font typography, the full name is included at the bottom of the logo in order to identify the meaning behind the two letters M M using a basic and simple font typography with a view to maintain the viewers attention and focus on the main logo symbol.
 
-The first name is in bold font style, whereas the surname in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them visually integral components.
-
+The first name is in bold font style, whereas the surname in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them an integrated component.
 
 
 .
@@ -57,9 +56,9 @@ The first name is in bold font style, whereas the surname in a regular style. Th
 <div align="center"><img width="842" height="844" src="imgs/section4_2.jpg"></div>
 
 <h1 align="center">Logo inspiration</h1>
-During the process of designing this particular logo, I had the chance to diversify my inspiration area not only to determine the logo style, but also to be able design this as I imagined it.
+During the process of designing this particular logo, I had the chance to diversify my inspiration area not only to determine the logo style, but also to be able design this logo as I imagined it.
 
-Being a junior designer, I was always interested in designs that were inspired whether from nature or human action or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. I like the fact that material design focuses on small details when it comes to shaps, shadows, bold flat colors, and most importantly the realistic appearances that provide visual cues that are inspired from reality.
+Being a junior designer, I've been always interested in designs that were inspired whether from nature or human action or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. I like the fact that material design focuses on small details when it comes to shaps, shadows, bold flat colors, and most importantly the realistic appearances that provide visual cues inspired from reality and nature.
 
 I like the shadow presences in Material design logos especially on Gmail, Drive, and Calendar logos. This gives a sense of reality and adaptation in the real world.
 The balance between the cold and warm colors is also there and supported by small shapes of dark colors from the same colors palette; which provides a sense of comfort to the viewers.
