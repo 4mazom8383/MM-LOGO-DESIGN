@@ -64,7 +64,7 @@ Being a junior designer, I was always interested in designs that were inspired w
 I like the shadow presences in Material design logos especially on Gmail, Drive, and Calendar logos. This gives a sense of reality and adaptation in the real world.
 The balance between the cold and warm colors is also there and supported by small shapes of dark colors from the same colors palette; which provides a sense of comfort to the viewers.
 
-Also, I'm a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use it as reference and a personal style in my future designs.
+Also, I'm a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use them as a reference and a personal style in my future designs.
 
 > Beside the Material design style, I also looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
 
@@ -112,8 +112,10 @@ In this way, the logo format can be maintained and there won’t be any sort of 
 The style guide can only be edited or changed by the original designer or in case there is a major update to the logo with a new style and look.
 
 
+.
+.
 
-
+# Used links / Referances
 
 Font typography : https://www.dafont.com/mayeka.font
 
