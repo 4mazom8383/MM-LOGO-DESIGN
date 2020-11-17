@@ -117,11 +117,11 @@ The style guide can only be edited or changed by the original designer or in cas
 
 # Used links / Referances
 
-Font typography: https://www.dafont.com/mayeka.font
-Material design: https://material.io/design
-Material design palette: https://www.materialpalette.com
-Flat UI colors: https://flatuicolors.com/palette/defo
-Apple Big Sur: https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design
+* Font typography: https://www.dafont.com/mayeka.font
+* Material design: https://material.io/design
+* Material design palette: https://www.materialpalette.com
+* Flat UI colors: https://flatuicolors.com/palette/defo
+* Apple Big Sur: https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design
 
 
-Noe, R., 2020. Apple's UI Design Aesthetic Moving Towards Neumorphism. core77.com, [Online]. [Accessed 4 November 2020]. Available at: https://www.core77.com/posts/100422/Apples-UI-Design-Aesthetic-Moving-Towards-Neumorphism 
+* Noe, R., 2020. Apple's UI Design Aesthetic Moving Towards Neumorphism. core77.com, [Online]. [Accessed 4 November 2020]. Available at: https://www.core77.com/posts/100422/Apples-UI-Design-Aesthetic-Moving-Towards-Neumorphism 
