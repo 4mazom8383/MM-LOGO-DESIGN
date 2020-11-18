@@ -44,7 +44,7 @@ This is supported with three main colors in order to make the merge smooth, clea
 
 When it comes to the chosen font typography, the full name is included at the bottom of the logo in order to identify the meaning behind the two letters M M using a basic and simple font typography with a view to maintain the viewers attention and focus on the main logo symbol.
 
-The first name is in bold font style, whereas the surname is in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them  integrated component.
+The first name is in bold font style, whereas the surname is in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to create an integrated design.
 
 
 .
@@ -58,18 +58,19 @@ The first name is in bold font style, whereas the surname is in a regular style.
 <h1 align="center">Logo inspiration</h1>
 During the process of designing this particular logo, I had the chance to diversify my inspiration area not only to determine the logo style, but also to be able design this logo as I imagined it.
 
-Being a junior designer, I've been always interested in designs that were inspired whether from nature or human action or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. I like the fact that material design focuses on small details when it comes to shaps, shadows, bold flat colors, and most importantly the realistic appearances that provide visual cues inspired from reality and nature.
+Being a junior designer, I've been always interested in designs that are inspired from nature, human actions or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. 
 
-I like the shadow presences in Material design logos especially on Gmail, Drive, and Calendar logos. This gives a sense of reality and adaptation in the real world.
-The balance between the cold and warm colors is also there and supported by small shapes of dark colors from the same colors palette; which provides a sense of comfort to the viewers.
+I like the fact that material design focuses on small details when it comes to shaps, shadows, bold colors, and most importantly the realistic appearances that provide visual cues inspired from reality and nature. 
 
-Also, I'm a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use them as a reference and a personal style in my future designs.
+I like the shadow presences in Material design logos especially on Gmail, Drive, and Calendar logos. These give a sense of reality and adaptation in the real world. The balance between the cold and warm colors is also there and supported by small shapes of dark colors from the same colors palette; which provides a sense of comfort to the viewers.
 
-> Beside the Material design style, I also looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
+Also, I’m a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use them as a reference and a personal style in my future designs.
+
+> Beside the Material design style, I looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
 
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
 
-When it comes to the used colors, I wanted to use multiple colors in order to demonstrate the merge among the logo elements. That was inspired from the bold colors especially flat color and Material color palette.
+When it comes to the used colors, I wanted to use multiple colors in order to demonstrate the merge among the logo elements. That has been inspired from the bold colors; especially flat color and Material color palette.
 
 The idea behind this is to create a chromatic balance between the two colors categories and most importantly to make the letters combination clear and significant to the viewer.
 
@@ -97,8 +98,8 @@ It is expected that this logo is going to be used mostly on digital devices. How
 ![Style guide](/imgs/section5.jpg)
 <h1 align="center">Style guide</h1>
 
-As shown on the logo style guide, these are the criteria in which the logo must be presented whether we want to print it or present it on visual devices. 
-All the criteria and the details provided on the style guide must be followed, respected, and most importantly considered as a reference whenever the logo is going to be used. 
+As shown on the logo style guide, these are the criteria in which the logo must be presented whether we want to print it or present it on electronic devices. 
+All the criteria and the details provided on the style guide must be followed, respected, and most important of all considered as a reference whenever the logo is going to be used. 
 
 The style guide demonstrates the following criteria:
 * The three logo versions
@@ -108,7 +109,7 @@ The style guide demonstrates the following criteria:
 * The original colors codes / main color & monochrome color
 * The used font typography / word mark
 
-In this way, the logo format can be maintained and there won’t be any sort of confusion in the future usage. Since the logo is going to be used mostly on digital devices, we didn't want to go deeper in the style guide and provide so many criteria and probabilities of use.
+In this way, the logo format can be maintained and there won’t be any sort of confusion in the future usage. Since the logo is going to be used mostly on digital devices, we did not want to go deeper in the style guide and provide so many criteria and usage probabilities.
 
 The style guide can only be edited or changed by the original designer or in case there is a major update to the logo with a new style and look.
 
