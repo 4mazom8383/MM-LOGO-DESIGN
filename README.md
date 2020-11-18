@@ -7,8 +7,8 @@ I've always wanted my logo to have a signature design similar to the senior desi
 
 The logo idea is based on a combination between the first two letters from the name "Mohamed MAZOUZ" “M M” in the form of a simple and remarkable symbol based on a minimal style. And supported by a collection of colors that will demonstrate clearly the combination between the two letters M M
 
-* The blue which represents the cold colors.
-* The yellow which represents the warm colors.
+* The blue represents the cold colors.
+* The yellow represents the warm colors.
 * The dark blue for the for the remaining components
 
 The idea is to create a chromatic balance between the two colors categories and most importantly to make the letters combination clear and significant to the viewer.
@@ -28,7 +28,7 @@ The following list contains:
 <div align="center"><img width="840" height="1200" src="imgs/section2.jpg"></div>
 <h1 align="center">Logo Sketches</h1>
 
-As a junior designer, I wanted my logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think about and understand it easily.
+As a junior designer, I wanted my logo idea to be based on a concept that could be developed from scratch in order to create a meaningful logo that would make viewers think and understand it easily.
 As shown in the presented sketches, the logo icon has three components; each one of them contains two shapes. 
 
 Starting from the right side: 
@@ -44,7 +44,7 @@ This is supported with three main colors in order to make the merge smooth, clea
 
 When it comes to the chosen font typography, the full name is included at the bottom of the logo in order to identify the meaning behind the two letters M M using a basic and simple font typography with a view to maintain the viewers attention and focus on the main logo symbol.
 
-The first name is in bold font style, whereas the surname in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them an integrated component.
+The first name is in bold font style, whereas the surname is in a regular style. The main idea behind this is to make the two words significant beside the main logo symbol with a view to make all of them  integrated component.
 
 
 .
