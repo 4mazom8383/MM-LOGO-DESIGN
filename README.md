@@ -58,7 +58,7 @@ The first name is in bold font style, whereas the surname is in a regular style.
 <h1 align="center">Logo inspiration</h1>
 During the process of designing this particular logo, I had the chance to diversify my inspiration area not only to determine the logo style, but also to be able design this logo as I imagined it.
 
-Being a junior designer, I've been always interested in designs that are inspired from nature, human actions or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. 
+Being a junior designer, I've always been interested in designs that are inspired from nature, human actions or even closer to real use. Although, I have been attracted by the material design which is one of the design languages developed by the Google design team. 
 
 I like the fact that material design focuses on small details when it comes to shaps, shadows, bold colors, and most importantly the realistic appearances that provide visual cues inspired from reality and nature. 
 
@@ -66,7 +66,10 @@ I like the shadow presences in Material design logos especially on Gmail, Drive,
 
 Also, I’m a big fan of the minimal design style. I enjoy the simplicity provided in these material design logos. I would like to use them as a reference and a personal style in my future designs.
 
-> Beside the Material design style, I looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
+Beside the Material design style, I looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
+
+> At the time of writing this documentation, there's a major change in the majority of Google logo designs. It is expected Google will make an update across all their services
+
 
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
 <h1 align="center">Color palettes</h1>
