@@ -133,7 +133,7 @@ The style guide can only be edited or changed by the original designer or in cas
 
 .
 * For a better look, here's a link on Behance that showcases the logo design in different perspectives:
-  * Behance: https://www.behance.net/gallery/107667857/LOGO
+## Behance: https://www.behance.net/gallery/107667857/LOGO
 
 
 
