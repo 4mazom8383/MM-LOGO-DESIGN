@@ -69,7 +69,7 @@ Also, I’m a big fan of the minimal design style. I enjoy the simplicity provid
 > Beside the Material design style, I looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
 
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
-<h1 align="center">Color palette inspiration</h1>
+<h1 align="center">Color palettes</h1>
 
 When it comes to the used colors, I wanted to use multiple colors in order to demonstrate the merge among the logo elements. That has been inspired from the bold colors; especially flat color and Material color palette.
 
@@ -95,6 +95,11 @@ In order to give and present a realistic view of the future usage to this partic
 
 It is expected that this logo is going to be used mostly on digital devices. However, all the criteria for printing usage are already presented in the style guide sheet.
 
+
+
+
+
+.
 
 ![Style guide](/imgs/section5.jpg)
 <h1 align="center">Style guide</h1>
