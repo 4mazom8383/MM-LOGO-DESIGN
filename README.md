@@ -68,7 +68,7 @@ Also, I’m a big fan of the minimal design style. I enjoy the simplicity provid
 
 Beside the Material design style, I looked at Neumorphic Design style which appears to be closer to the 3D design. According to (Noe, R., 2020) it is expected to be raised and supported by Apple's new operating system (Big Sur). This will enhance the realistic aspect in the design style using several cues grounded from reality.
 
-> At the time of writing this documentation, there's a major change in the majority of Google logo designs. It is expected Google will make an update across all their services
+> At the time of writing this documentation, there's a major change in the majority of Google logo designs. It is expected Google will make an update all over their services.
 
 
 <div align="center"><img width="842" height="842" src="imgs/section4_3.jpg"></div>
