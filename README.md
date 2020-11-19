@@ -76,6 +76,11 @@ When it comes to the used colors, I wanted to use multiple colors in order to de
 The idea behind this is to create a chromatic balance between the two colors categories and most importantly to make the letters combination clear and significant to the viewer.
 
 
+
+
+
+
+.
 ![Logo mockup](/imgs/mockup1.jpg)
 
 ![Logo mockup](/imgs/mockup2.jpg)
